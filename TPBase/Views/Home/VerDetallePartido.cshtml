@@ -1,0 +1,37 @@
+<h1>g</h1>
+<center><img src= "/img/@ViewBag.Partido.Logo"  style="width:20%"></center>
+
+
+
+<p>@ViewBag.Partido.Nombre</p>
+
+<p>cantidad de diputados: @ViewBag.Partido.CantidadDiputados</p>
+<p>cantidad de senadores: @ViewBag.Partido.CantidadSenadores</p>
+<p>sitio web: @ViewBag.Partido.SitioWeb</p>
+<p>Fecha de fundación: @ViewBag.Partido.FechaFundacion</p>
+
+
+@foreach (Candidato item in ViewBag.Candidatos)
+{
+  <div class="card">
+    <center>    
+  <a href='@Url.Action("VerDetalleCandidato", new{idPartido=@item.IdPartido})'><img src= "/img/@item.Foto" alt="Avatar" style="width:40%"></a>
+  <div style="clear:both" class="container">
+    <h4><b>@item.Nombre @item.Apellido</b></h4>
+    <a href='@Url.Action("EliminarCandidato", new{idCandidato=@item.IdCandidato, idPartido=@item.IdPartido})'><button id="eliminated">Borrar candidato</button></a>
+    <br>
+    <style>
+      #eliminated{
+        background-color: red;
+        border-radius: 5px;
+        width: auto;
+        padding-top: 2px;
+      }
+    </style>
+    </div>
+  </div>
+}
+
+<a class="boton" href='@Url.Action("AgregarCandidato", new{idPartido=@ViewBag.Partido.IdPartido})'> <button>Agregar candidato</button> </a>
+
+

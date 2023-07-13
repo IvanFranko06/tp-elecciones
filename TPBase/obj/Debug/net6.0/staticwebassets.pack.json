@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\tp6.bundle.scp.css",
+      "PackagePath": "staticwebassets\\tp6.bundle.scp.css"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\img\\arg.png",
+      "PackagePath": "staticwebassets\\img\\arg.png"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\img\\bullrich.jpg",
+      "PackagePath": "staticwebassets\\img\\bullrich.jpg"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\img\\hrl.jpg",
+      "PackagePath": "staticwebassets\\img\\hrl.jpg"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\img\\ivi.jpeg",
+      "PackagePath": "staticwebassets\\img\\ivi.jpeg"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\img\\jxc.png",
+      "PackagePath": "staticwebassets\\img\\jxc.png"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\img\\libavan.png",
+      "PackagePath": "staticwebassets\\img\\libavan.png"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\img\\masa.jpg",
+      "PackagePath": "staticwebassets\\img\\masa.jpg"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\img\\milei.jpg",
+      "PackagePath": "staticwebassets\\img\\milei.jpg"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\img\\noah.jpeg",
+      "PackagePath": "staticwebassets\\img\\noah.jpeg"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\img\\uxp.png",
+      "PackagePath": "staticwebassets\\img\\uxp.png"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\img\\yano.jpeg",
+      "PackagePath": "staticwebassets\\img\\yano.jpeg"
+    },
+    {
+      "Id": "Z:\\AAAA 4IB 2023\\MATERIAS DE INFO\\PROGRAMACION\\TPBase\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.tp6.props",
+      "PackagePath": "build\\tp6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.tp6.props",
+      "PackagePath": "buildMultiTargeting\\tp6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.tp6.props",
+      "PackagePath": "buildTransitive\\tp6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.tp6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
